@@ -1,2 +1,1 @@
-print("HIQT")
-    
+idk
