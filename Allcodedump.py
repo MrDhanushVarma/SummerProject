@@ -41,7 +41,7 @@ for i in range(L):
 
 plt.show()
 
-
+# --------------------__--------------___--_--_--------# --------------------__--------------___--_--_--------
 
 # 2d sq potential
 
@@ -83,7 +83,7 @@ plt.ylabel('Y-axis')
 plt.tight_layout()
 plt.show()
 
-
+# --------------------__--------------___--_--_--------# --------------------__--------------___--_--_--------
 # 2d sq lattice
 import numpy as np
 import matplotlib.pyplot as plt
@@ -246,7 +246,7 @@ for i in range(9):
 plt.tight_layout()
 plt.show()
 
-
+# --------------------__--------------___--_--_--------# --------------------__--------------___--_--_--------
 # 2d hexagonal lattice
 
 import numpy as np
@@ -504,7 +504,7 @@ for i in range(N):
 
 plt.show()
 
-
+# --------------------__--------------___--_--_--------# --------------------__--------------___--_--_--------
 # 2d sq lattice(not working)
 
 
@@ -602,7 +602,7 @@ for i, ax in enumerate(axs.flat):
 plt.tight_layout()
 plt.show()
 
-
+# --------------------__--------------___--_--_--------# --------------------__--------------___--_--_--------
 # Hofstader butterfly(working)
 
 import numpy as np
@@ -663,7 +663,7 @@ plt.xlim(-4,4)
 
 plt.show()
 
-
+# --------------------__--------------___--_--_--------# --------------------__--------------___--_--_--------
 # chern no. 2d sq lattice(working)
 
 import numpy as np
